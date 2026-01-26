@@ -47,8 +47,8 @@ Web上で動くメモアプリです。
 　if文<br>
 　for文<br>
 　リスト<br>
-　try/catch文<br>
 　画面表示制御<br>
+　try/catch文<br>
 　データベースへ接続・SQL文作成・実行<br>
 　ログアウト時、セッションスコープ削除<br>
 　ユーザー登録時、MEMOSテーブル作成。<br>
