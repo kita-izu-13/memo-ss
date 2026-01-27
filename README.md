@@ -60,10 +60,10 @@ Web上で動くメモアプリです。
 　!["signup"](images/01signup.gif) 　 !["signup"](images/02login.gif) 　<br>
  
 ・・・・・・　メモ追加　・・・・・・　　｜　　・・・・・・　並べ替え　・・・・・・　　｜　<br>
-　!["signup"](images/03add.gif) 　 !["signup"](images/04sort.gif) 　<br>
+!["signup"](images/03add.gif) 　 !["signup"](images/04sort.gif) 　<br>
  
 ・・・・・・　メモ編集　・・・・・・　　｜　　・・・・・・　メモ削除　・・・・・・　　｜　<br>
-　!["signup"](images/05update.gif) 　 !["signup"](images/03sort.gif) 　<br>
+!["signup"](images/05update.gif) 　 !["signup"](images/03sort.gif) 　<br>
  
 　　　> [▲ トップへ戻る](#top)
  
