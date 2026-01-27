@@ -57,7 +57,7 @@ Web上で動くメモアプリです。
 
 ## 実行イメージ<br>
 ・・・・・　トップ～ユーザー登録　・・・・・　　　｜　<br>
- !["signup"](images/signup.gif) <br>
+ !["signup"](images/01signup.gif) 　 !["signup"](images/01signup.gif) 　<br>
 　　　> [▲ トップへ戻る](#top)
  
 ## 工夫した点<br>
