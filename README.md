@@ -56,8 +56,10 @@ Web上で動くメモアプリです。
 　　　> [▲ トップへ戻る](#top)
 
 ## 実行イメージ<br>
-・・・　トップ～ユーザー登録　・・・　　｜　　・・・　ログイン～メモ一覧　・・・　　｜　<br>
-　!["signup"](images/01signup.gif) 　 !["signup"](images/01signup.gif) 　<br>
+・・・　トップ～ユーザー登録　・・・　　｜　　・・・　ログイン～メモ一覧　・・・　　　｜　<br>
+　!["signup"](images/01signup.gif) 　 !["signup"](images/02login.gif) 　<br>
+・・・・・・　メモ追加　・・・・・・　　｜　　・・・・・・　並べ替え　・・・・・・　　｜　<br>
+　!["signup"](images/03add.gif) 　 !["signup"](images/04sort.gif) 　<br>
 　　　> [▲ トップへ戻る](#top)
  
 ## 工夫した点<br>
