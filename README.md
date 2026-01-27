@@ -56,7 +56,7 @@ Web上で動くメモアプリです。
 　　　> [▲ トップへ戻る](#top)
 
 ## 実行イメージ<br>
- !["jankengame"](images/jankengame.gif) <br>
+ !["signup"](images/signup.gif) <br>
 　　　> [▲ トップへ戻る](#top)
  
 ## 工夫した点<br>
