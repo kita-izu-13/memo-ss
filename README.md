@@ -62,19 +62,19 @@ Web上で動くメモアプリです。
 !["signup"](images/01signup.gif) 
  
  ・・・　ログイン～メモ一覧　・・・<br>
-!["signup"](images/02login.gif) 　<br>
+!["signup"](images/02login.gif) 
  
 ・・・・・・　メモ追加　・・・・・・<br>
 !["signup"](images/03add.gif) 
 
 ・・・・・・　並べ替え　・・・・・・<br>
-!["signup"](images/04sort.gif) 　<br>
+!["signup"](images/04sort.gif) 
  
 ・・・・・・　メモ編集　・・・・・・<br>
 !["signup"](images/05update.gif) 　
 
 ・・・・・・　メモ削除　・・・・・・<br>
-!["signup"](images/03sort.gif) 　<br>
+!["signup"](images/03sort.gif) 
  
 　　　> [▲ トップへ戻る](#top)
  
