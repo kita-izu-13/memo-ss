@@ -57,34 +57,34 @@ Web上で動くメモアプリです。
 ## 実行イメージ<br>
 ※実行イメージは作成途中です<br>
 ・・・　トップ～ユーザー登録　・・・<br>
-!["signup"](images/01signup.gif) 
+!["signup"](images/01signup.gif) <br>
  
  ・・・　ログイン～メモ一覧　・・・<br>
-!["applogin"](images/02login.gif) 
+!["applogin"](images/02login.gif) <br>
  
 ・・・・・・　メモ追加　・・・・・・<br>
-!["memoadd"](images/03add.gif) 
+!["memoadd"](images/03add.gif) <br>
 
 ・・・・・・　並べ替え　・・・・・・<br>
-!["memosort"](images/04sort.gif) 
+!["memosort"](images/04sort.gif) <br>
  
 ・・・・・・　メモ編集　・・・・・・<br>
-!["memoupdate"](images/05update.gif) 　
+!["memoupdate"](images/05update.gif) <br>
 
 ・・・・・・　メモ削除　・・・・・・<br>
-!["memodelete"](images/06delete.gif) 
+!["memodelete"](images/06delete.gif) <br>
 
 ・・　メモ検索（＆キャンセル）　・・<br>
-!["memoselect"](images/07selectcancel.gif)
+!["memoselect"](images/07selectcancel.gif)<br>
 
 ・・・　 メモ検索（＆削除）　 ・・・<br>
-!["memoselect"](images/08selectDelete.gif)
+!["memoselect"](images/08selectDelete.gif)<br>
 
 ・・・・・　ログアウト　・・・・・・<br>
-!["applogout"](images/09logout.gif)
+!["applogout"](images/09logout.gif)<br>
 
 ・・・・　アカウント削除　・・・・・<br>
-!["applogout"](images/10accountDelete.gif)
+!["applogout"](images/10accountDelete.gif)<br>
  
 　　　> [▲ トップへ戻る](#top)
  
