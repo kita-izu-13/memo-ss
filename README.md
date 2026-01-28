@@ -59,7 +59,7 @@ Web上で動くメモアプリです。
 ・・・　トップ～ユーザー登録　・・・<br>
 !["signup"](images/01signup.gif) <br>
 
- ・・・　ログイン～メモ一覧　・・・<br>
+・・・・　ログイン～メモ一覧　・・・<br>
 !["applogin"](images/02login.gif) <br>
  
 ・・・・・・　メモ追加　・・・・・・<br>
