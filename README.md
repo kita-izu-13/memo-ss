@@ -75,7 +75,7 @@ Web上で動くメモアプリです。
 !["memodelete"](images/06delete.gif) 
 
 ・・　メモ検索（＆キャンセル）　・・<br>
-!["memoselect"](images/07selectCancel.gif)
+!["memoselect"](images/07selectcancel.gif)
 
 ・・・　 メモ検索（＆削除）　 ・・・<br>
 !["memoselect"](images/08selectDelete.gif)
