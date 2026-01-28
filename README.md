@@ -72,7 +72,7 @@ Web上で動くメモアプリです。
 !["signup"](images/05update.gif) 　
 
 ・・・・・・　メモ削除　・・・・・・<br>
-!["signup"](images/03sort.gif) 
+!["signup"](images/06delete.gif) 
  
 　　　> [▲ トップへ戻る](#top)
  
