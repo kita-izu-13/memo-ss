@@ -87,7 +87,7 @@ Web上で動くメモアプリです。
 !["applogout"](images/10accountDelete.gif)<br>
  
 　　　> [▲ トップへ戻る](#top)
- 
+
 ## 工夫した点<br>
 ・ユーザー登録時に、<br>
 　ACCOUNTSテーブルにフォームからの入力したものに加え、テーブル名を自動付与。<br>
