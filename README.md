@@ -84,7 +84,7 @@ Web上で動くメモアプリです。
 
 ・・・・　アカウント削除　・・・・・<br>
 !["applogout"](images/10accountDelete.gif)<br>
- 
+
 　　　> [▲ トップへ戻る](#top)
 
 ## 工夫した点<br>
