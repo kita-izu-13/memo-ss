@@ -74,11 +74,17 @@ Web上で動くメモアプリです。
 ・・・・・・　メモ削除　・・・・・・<br>
 !["memodelete"](images/06delete.gif) 
 
+・・　メモ検索（＆キャンセル）　・・<br>
+!["memoselect"](images/07selectCancel.gif)
+
 ・・・　 メモ検索（＆削除）　 ・・・<br>
-!["memoselect"](images/07select.gif)
+!["memoselect"](images/08selectDelete.gif)
 
 ・・・・・　ログアウト　・・・・・・<br>
-!["applogout"](images/08logout.gif)
+!["applogout"](images/09logout.gif)
+
+・・・・　アカウント削除　・・・・・<br>
+!["applogout"](images/10accountDelete.gif)
  
 　　　> [▲ トップへ戻る](#top)
  
