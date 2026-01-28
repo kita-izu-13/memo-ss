@@ -60,19 +60,25 @@ Web上で動くメモアプリです。
 !["signup"](images/01signup.gif) 
  
  ・・・　ログイン～メモ一覧　・・・<br>
-!["signup"](images/02login.gif) 
+!["applogin"](images/02login.gif) 
  
 ・・・・・・　メモ追加　・・・・・・<br>
-!["signup"](images/03add.gif) 
+!["memoadd"](images/03add.gif) 
 
 ・・・・・・　並べ替え　・・・・・・<br>
-!["signup"](images/04sort.gif) 
+!["memosort"](images/04sort.gif) 
  
 ・・・・・・　メモ編集　・・・・・・<br>
-!["signup"](images/05update.gif) 　
+!["memoupdate"](images/05update.gif) 　
 
 ・・・・・・　メモ削除　・・・・・・<br>
-!["signup"](images/06delete.gif) 
+!["memodelete"](images/06delete.gif) 
+
+・・・　 メモ検索（＆削除）　 ・・・<br>
+!["memoselect"](images/07select.gif)
+
+・・・・・　ログアウト　・・・・・・<br>
+!["applogout"](images/08logout.gif)
  
 　　　> [▲ トップへ戻る](#top)
  
