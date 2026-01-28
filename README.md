@@ -71,7 +71,7 @@ Web上で動くメモアプリです。
 !["memoupdate"](images/05update.gif) <br>
 
 ・・・・・・　メモ削除　・・・・・・<br>
-　※削除は、複数選択できます。
+　※削除は、複数選択できます。<br>
 !["memodelete"](images/06delete.gif) <br>
 
 ・・　メモ検索（＆キャンセル）　・・<br>
