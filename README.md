@@ -58,14 +58,23 @@ Web上で動くメモアプリです。
 
 ## 実行イメージ<br>
 ※実行イメージは作成途中です<br>
-・・・　トップ～ユーザー登録　・・・　　｜　　・・・　ログイン～メモ一覧　・・・　　　｜　<br>
-　!["signup"](images/01signup.gif) 　 !["signup"](images/02login.gif) 　<br>
+・・・　トップ～ユーザー登録　・・・<br>　
+　!["signup"](images/01signup.gif) 
  
-・・・・・・　メモ追加　・・・・・・　　｜　　・・・・・・　並べ替え　・・・・・・　　｜　<br>
-!["signup"](images/03add.gif) 　 !["signup"](images/04sort.gif) 　<br>
+ ・・・　ログイン～メモ一覧　・・・<br>
+ !["signup"](images/02login.gif) 　<br>
  
-・・・・・・　メモ編集　・・・・・・　　｜　　・・・・・・　メモ削除　・・・・・・　　｜　<br>
-!["signup"](images/05update.gif) 　 !["signup"](images/03sort.gif) 　<br>
+・・・・・・　メモ追加　・・・・・・<br>
+!["signup"](images/03add.gif) 
+
+・・・・・・　並べ替え　・・・・・・<br>
+!["signup"](images/04sort.gif) 　<br>
+ 
+・・・・・・　メモ編集　・・・・・・<br>
+!["signup"](images/05update.gif) 　
+
+・・・・・・　メモ削除　・・・・・・<br>
+!["signup"](images/03sort.gif) 　<br>
  
 　　　> [▲ トップへ戻る](#top)
  
