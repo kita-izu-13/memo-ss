@@ -20,9 +20,7 @@ Web上で動くメモアプリです。
 　Web上で動作するメモアプリです。<br>
 ・「掲示板アプリ」の改善点を踏まえ、作成しました。<br>
 ・Java（servlet、model、dao）とJSPを中心に、<br>
-　HTML / CSS / JavaScript を組み合わせ、<br>
 　DBとの連携を意識して実装しました。<br>
-　（HTML＆CSS学習約1カ月、JavaScript学習1カ月）<br>
 　　　> [▲ トップへ戻る](#top)
 
 ## 要件<br>
